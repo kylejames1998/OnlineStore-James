@@ -49,3 +49,7 @@
 .home_title {
     font-size: 190%;
 }
+/* changes the bullets to uppercase roman characters */
+ol {
+    list-style-type: upper-roman;
+}
