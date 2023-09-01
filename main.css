@@ -1,5 +1,6 @@
 .logo {
-    width: 500px;
+    width: 300px;
+    margin-top: 50px;
 }
 
 .product-heading {
@@ -16,4 +17,16 @@
 
 .product_spacing {
     text-align: left;
+}
+
+.CP {
+    width: 25%;
+}
+
+.store-name {
+    font-size: 180%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.products_header {
+    font-size: 180%;
 }
