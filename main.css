@@ -1,0 +1,19 @@
+.logo {
+    width: 500px;
+}
+
+.product-heading {
+    color: green;
+}
+
+.product_img {
+    height: 100px;
+}
+
+.ul-style {
+    list-style-type: none;
+}
+
+.product_spacing {
+    text-align: left;
+}
