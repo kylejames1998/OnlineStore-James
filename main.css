@@ -26,12 +26,19 @@
 .store-name {
     font-size: 180%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 25px;
 }
+
+.title-background {
+    padding: 1px;
+    background-color: #A437DB;
+    border: 0px;
+    border-radius: 25px;
+    width: 35%
+}
+
 .products_header {
     font-size: 180%;
-}
-.product_list {
-    width: 25%;
 }
 
 .pd {
