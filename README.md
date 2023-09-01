@@ -3,4 +3,4 @@
 ### Author:
 Kyle James
 ### Purpose:
- A fictional online store for Kyle James ProductionsS
+ A fictional online store for Kyle James Productions
