@@ -31,6 +31,13 @@
     font-size: 180%;
 }
 .product_list {
-    width: 25%S;
+    width: 25%;
 }
 
+.pd {
+    width: 70%;
+}
+
+.home_title {
+    font-size: 190%;
+}
